@@ -1,0 +1,16 @@
+{
+    "name" : "wqy/pipeline",
+    "description" : "pipeline \u0012\u0012\u0012",
+    "type" : "library",
+    "authors" : [{
+            "name" : "windsor",
+            "email" : "txcses@gmail.com"
+        }
+    ],
+    "minimum-stability" : "stable",
+    "autoload": {
+       "psr-4": {
+           "Wqy\\Pipeline\\": "src"
+       }
+    }
+}
